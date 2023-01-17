@@ -57,7 +57,7 @@ Finally, choose **Create Web Service**
 
 After your web service has been deployed and build, the URL to visit it will be highlighted in the log file.
 
-**NOTE**: Edit any files on branches other then **production**, then use ```pull requests``` to merge your changes into the ***production** branch. Rendfer will automatically start deploying changes that are detected on the **production** branch.
+**NOTE**: Edit any files on branches other then **production**, then use ```pull requests``` to merge your changes into the **production** branch. Rendfer will automatically start deploying changes that are detected on the **production** branch.
 
 
 
